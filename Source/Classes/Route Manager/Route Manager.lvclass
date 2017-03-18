@@ -96,7 +96,7 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
 		</Item>
 	</Item>
-	<Item Name="Relay State" Type="Folder">
+	<Item Name="Relays" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">4</Property>
 		<Item Name="Check Relay State.vi" Type="VI" URL="../Check Relay State.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;$!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$Y!]1!!!!!!!!!#&amp;6*P&gt;82F)%VB&lt;G&amp;H:8)O&lt;(:D&lt;'&amp;T=QR1&lt;X.J&gt;'FP&lt;CZD&gt;'Q!%U!$!!BQ&lt;X.J&gt;'FP&lt;A!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!71$$`````$(*F&lt;'&amp;Z)(.U=GFO:Q!!-E"Q!"Y!!"=65G^V&gt;'5A47&amp;O97&gt;F=CZM&gt;G.M98.T!""3&lt;X6U:3".97ZB:W6S)'FO!!"5!0!!$!!$!!1!"1!%!!1!"!!%!!1!"A!%!!=!#!)!!(A!!!U)!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!)1!!!!%!!!!!!"!!E!!!!!</Property>
@@ -115,6 +115,15 @@
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">4</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		</Item>
+		<Item Name="Get Relay Names.vi" Type="VI" URL="../Get Relay Names.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;?!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!":!-0````].=G6M98EA=X2S;7ZH=Q!;1%!!!@````]!"1VS:7RB?3"T&gt;(*J&lt;G&gt;T!$*!=!!?!!!8&amp;6*P&gt;82F)%VB&lt;G&amp;H:8)O&lt;(:D&lt;'&amp;T=Q!25G^V&gt;'5A47&amp;O97&gt;F=C"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!S1(!!(A!!&amp;R63&lt;X6U:3".97ZB:W6S,GRW9WRB=X-!%&amp;*P&gt;82F)%VB&lt;G&amp;H:8)A;7Y!!'%!]!!-!!-!"!!'!!=!"!!%!!1!"!!)!!1!"!!*!A!!?!!!$1A!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!I!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">4</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 		</Item>
 		<Item Name="Update Relay State.vi" Type="VI" URL="../Update Relay State.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'#!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!8&amp;6*P&gt;82F)%VB&lt;G&amp;H:8)O&lt;(:D&lt;'&amp;T=Q!25G^V&gt;'5A47&amp;O97&gt;F=C"P&gt;81!0A$R!!!!!!!!!!)65G^V&gt;'5A47&amp;O97&gt;F=CZM&gt;G.M98.T$&amp;"P=WFU;7^O,G.U&lt;!!41!-!#("P=WFU;7^O!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!":!-0````]-=G6M98EA=X2S;7ZH!!!S1(!!(A!!&amp;R63&lt;X6U:3".97ZB:W6S,GRW9WRB=X-!%&amp;*P&gt;82F)%VB&lt;G&amp;H:8)A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"A!(!!1!#!!*!A!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!"!!!!!)!!!!!!!!!B!!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!I!!!!!</Property>
