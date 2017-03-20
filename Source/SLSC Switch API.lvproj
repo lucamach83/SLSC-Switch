@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="15008000">
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -10,6 +11,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Scratch.vi" Type="VI" URL="../Scratch.vi"/>
 		<Item Name="Route Manager.lvclass" Type="LVClass" URL="../Classes/Route Manager/Route Manager.lvclass"/>
 		<Item Name="SLSC Switch.lvclass" Type="LVClass" URL="../Classes/SLSC Switch/SLSC Switch.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
