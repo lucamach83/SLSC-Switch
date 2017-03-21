@@ -25,6 +25,15 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="General" Type="Folder">
+		<Item Name="Disconnect Channels.vi" Type="VI" URL="../Disconnect Channels.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0)^V$_1!!%!!!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
+		</Item>
 		<Item Name="Can Connect Channels.vi" Type="VI" URL="../Can Connect Channels.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'4!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%E!]1!!!!!!!!!#%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X-45'&amp;U;#"$98"B9GFM;82Z,G.U&lt;!!:1!-!$X"B&gt;'AA9W&amp;Q97*J&lt;'FU?1!O1(!!(A!!&amp;2.44&amp;.$)&amp;.X;82D;#ZM&gt;G.M98.T!!^44&amp;.$)&amp;.X;82D;#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!31$$`````#7.I97ZO:7QA-A!31$$`````#7.I97ZO:7QA-1!O1(!!(A!!&amp;2.44&amp;.$)&amp;.X;82D;#ZM&gt;G.M98.T!!Z44&amp;.$)&amp;.X;82D;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!*!!I#!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!)1!!!#%!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -95,11 +104,20 @@
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		</Item>
+		<Item Name="Connect Channels.vi" Type="VI" URL="../Connect Channels.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0)^V"6,!!%!!!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1074278928</Property>
 		</Item>
 	</Item>
 	<Item Name="Relay" Type="Folder">
-		<Item Name="slscswitch Get Relay Position.vi" Type="VI" URL="../slscswitch Get Relay Position.vi">
+		<Item Name="Get Relay Position.vi" Type="VI" URL="../Get Relay Position.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;Y!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$Y!]1!!!!!!!!!#&amp;6*P&gt;82F)%VB&lt;G&amp;H:8)O&lt;(:D&lt;'&amp;T=QR1&lt;X.J&gt;'FP&lt;CZD&gt;'Q!%U!$!!BQ&lt;X.J&gt;'FP&lt;A!!,E"Q!"Y!!"545UR41S"4&gt;WFU9WAO&lt;(:D&lt;'&amp;T=Q!05UR41S"4&gt;WFU9WAA&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;%!Q`````QJS:7RB?3"O97VF!!!O1(!!(A!!&amp;2.44&amp;.$)&amp;.X;82D;#ZM&gt;G.M98.T!!Z44&amp;.$)&amp;.X;82D;#"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!)!!E#!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!#%!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -108,7 +126,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
 		</Item>
-		<Item Name="slscswitch Relay Control.vi" Type="VI" URL="../slscswitch Relay Control.vi">
+		<Item Name="Relay Control.vi" Type="VI" URL="../Relay Control.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'G!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X-!$V.-5U-A5X&gt;J&gt;'.I)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!'Q!]1!!!!!!!!!#%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X-15G6M98EA17.U;7^O,G.U&lt;!!`1"9!!AJ0='6O)&amp;*F&lt;'&amp;Z#U.M&lt;X.F)&amp;*F&lt;'&amp;Z!!!;=G6M98EA97.U;7^O)#B$&lt;'^T:3"3:7RB?3E!!"2!-0````]+=G6M98EA&lt;G&amp;N:1!!,E"Q!"Y!!"545UR41S"4&gt;WFU9WAO&lt;(:D&lt;'&amp;T=Q!/5UR41S"4&gt;WFU9WAA;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!=!#!!*!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%!!!!B!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!I!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -119,7 +137,7 @@
 		</Item>
 	</Item>
 	<Item Name="Utility" Type="Folder">
-		<Item Name="slscswitch Reset.vi" Type="VI" URL="../slscswitch Reset.vi">
+		<Item Name="Reset.vi" Type="VI" URL="../Reset.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%G!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X-!$V.-5U-A5X&gt;J&gt;'.I)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#Z!=!!?!!!6%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X-!$F.-5U-A5X&gt;J&gt;'.I)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!)!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -169,7 +187,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 		</Item>
-		<Item Name="Get Relay Position.vi" Type="VI" URL="../SubVIs/Get Relay Position.vi">
+		<Item Name="Get Physcial Relay State.vi" Type="VI" URL="../SubVIs/Get Physcial Relay State.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%^!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$Y!]1!!!!!!!!!#&amp;6*P&gt;82F)%VB&lt;G&amp;H:8)O&lt;(:D&lt;'&amp;T=QR1&lt;X.J&gt;'FP&lt;CZD&gt;'Q!%U!$!!BQ&lt;X.J&gt;'FP&lt;A!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51$$`````#H*F&lt;'&amp;Z)'ZB&lt;75!!#Z!=!!?!!!6%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X-!$F.-5U-A5X&gt;J&gt;'.I)'FO!!"5!0!!$!!$!!1!"1!%!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!)1!!!!%!!!!!!"!!E!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
