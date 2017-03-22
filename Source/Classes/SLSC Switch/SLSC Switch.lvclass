@@ -259,5 +259,14 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">8388608</Property>
 		</Item>
+		<Item Name="SLSC Switch Probe.vi" Type="VI" URL="../../../Probe/SLSC Switch Probe.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#Q!!!!"1!%!!!!&amp;E!Q`````QR797RV:3"4&gt;(*J&lt;G=!!!R!)1&gt;#&lt;W^M:7&amp;O!#Z!=!!?!!!6%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X-!$V.-5U-A5X&gt;J&gt;'.I)'^V&gt;!"5!0!!$!!!!!!!!1!#!!!!!!!!!!!!!!!!!!!!!Q)!!(A!!!!!!!!!!!!!#1!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!"!!1!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082130946</Property>
+		</Item>
 	</Item>
 </LVClass>
