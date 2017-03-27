@@ -22,6 +22,8 @@
 			<Item Name="nislsclvapi.dll" Type="Document" URL="nislsclvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Get Relay Info.vi" Type="VI" URL="../Classes/Route Manager/Get Relay Info.vi"/>
+			<Item Name="Relay Info.ctl" Type="VI" URL="../Classes/Route Manager/Relay Info.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
