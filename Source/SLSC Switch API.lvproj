@@ -24,6 +24,7 @@
 			</Item>
 			<Item Name="Get Relay Info.vi" Type="VI" URL="../Classes/Route Manager/Get Relay Info.vi"/>
 			<Item Name="Relay Info.ctl" Type="VI" URL="../Classes/Route Manager/Relay Info.ctl"/>
+			<Item Name="slscsl.dll" Type="Document" URL="../../../../../Desktop/slscsl/dll/slscsl.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
