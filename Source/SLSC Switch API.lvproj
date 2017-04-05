@@ -12,7 +12,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Route Manager.lvclass" Type="LVClass" URL="../Classes/Route Manager/Route Manager.lvclass"/>
+		<Item Name="slscsl.lvclass" Type="LVClass" URL="../Classes/slscsl/slscsl.lvclass"/>
 		<Item Name="SLSC Switch.lvclass" Type="LVClass" URL="../Classes/SLSC Switch/SLSC Switch.lvclass"/>
 		<Item Name="Scratch.vi" Type="VI" URL="../Scratch.vi"/>
 		<Item Name="Example.vi" Type="VI" URL="../Classes/SLSC Switch/Example.vi"/>
