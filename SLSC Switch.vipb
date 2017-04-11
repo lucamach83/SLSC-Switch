@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-04-05 09:22:59" Modified_Date="2017-04-10 11:21:53" Creator="Tanner Blair" Comments="" ID="083c477eec8b81ab204da5833b3aa2cb">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-04-05 09:22:59" Modified_Date="2017-04-10 18:59:24" Creator="Tanner Blair" Comments="" ID="ee8568b1c97310176ad8a6c6443638c7">
   <Library_General_Settings>
     <Package_File_Name>NI_SLSC_Switch</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -296,14 +296,28 @@
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
-          <Row>2</Row>
+          <Row>3</Row>
           <Column>5</Column>
         </Position>
         <Icon>00000000</Icon>
         <Path>Source\Classes\SLSC Switch\Reset.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AEAEDD7F19FFB34F2A9F20FE5074D34D</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Get Relay Names.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>5</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Source\Classes\SLSC Switch\Get Relay Names.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>711336EAF927DDF0041F117BF04472DA</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

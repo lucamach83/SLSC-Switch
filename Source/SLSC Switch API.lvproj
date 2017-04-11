@@ -12,6 +12,11 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Relay Interfaces" Type="Folder">
+			<Item Name="RelayInterface.lvclass" Type="LVClass" URL="../Classes/Relay Interface/RelayInterface.lvclass"/>
+			<Item Name="PhysicalChannelRelay.lvclass" Type="LVClass" URL="../Classes/Physical Channel Relay/PhysicalChannelRelay.lvclass"/>
+			<Item Name="DevicePropertyRelay.lvclass" Type="LVClass" URL="../Classes/Device Property Relay/DevicePropertyRelay.lvclass"/>
+		</Item>
 		<Item Name="slscsl.lvclass" Type="LVClass" URL="../Classes/slscsl/slscsl.lvclass"/>
 		<Item Name="SLSC Switch.lvclass" Type="LVClass" URL="../Classes/SLSC Switch/SLSC Switch.lvclass"/>
 		<Item Name="Scratch.vi" Type="VI" URL="../Scratch.vi"/>
