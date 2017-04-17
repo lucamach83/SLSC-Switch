@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-04-05 09:22:59" Modified_Date="2017-04-14 16:30:29" Creator="Tanner Blair" Comments="" ID="395ce369203262bc32f7a7d9ba079ec5">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-04-05 09:22:59" Modified_Date="2017-04-16 19:06:41" Creator="Tanner Blair" Comments="" ID="7cb65942636f5bd0daa7966b2cc9dc78">
   <Library_General_Settings>
     <Package_File_Name>NI_SLSC_Switch</Package_File_Name>
     <Library_Version>1.0.0.11</Library_Version>
@@ -323,7 +323,7 @@
         <Path>Source\Blacklist</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CD60AC346647DCA585E4DE18BBE665BF</GUID>
+      <GUID>FEE144F1CA803A41A672929F7CCAE8E5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -372,7 +372,7 @@
         <Path>Source\Classes\SLSC Switch\Get Relay Position.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>21D5A3193754980E57CDEEB6A24586BD</GUID>
+      <GUID>A9D9518DA6C9912150DE47F334C1B453</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -435,7 +435,7 @@
         <Path>Source\Classes\SLSC Switch\Get Available Channels.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>678D6C020DCCFBCD9B426AA868EF26EF</GUID>
+      <GUID>FB4C2EFF4168EACC1866C1E4338794F7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -459,7 +459,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Blacklist Channel.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Blacklist Connection.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -467,7 +467,21 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\Classes\SLSC Switch\Blacklist Channel.vi</Path>
+        <Path>Source\Classes\SLSC Switch\Blacklist Connection.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Unblacklist Connection.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Source\Classes\SLSC Switch\Unblacklist Connection.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -484,21 +498,7 @@
         <Path>Source\Classes\SLSC Switch\Check Blacklist.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Unblacklist Channel.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Source\Classes\SLSC Switch\Unblacklist Channel.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>77272BBD4CA1B7BB9F0C21AF44C8F4A1</GUID>
+      <GUID>AB74CDF2D93330B60537E1C3BB99A132</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
