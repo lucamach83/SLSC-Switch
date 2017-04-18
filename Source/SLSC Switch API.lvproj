@@ -21,11 +21,15 @@
 			<Item Name="SubVIs" Type="Folder">
 				<Item Name="Initialize Listboxes.vi" Type="VI" URL="../Initialize Listboxes.vi"/>
 			</Item>
-			<Item Name="Example.vi" Type="VI" URL="../Example.vi"/>
+			<Item Name="Example.vi" Type="VI" URL="../Example.vi">
+				<Property Name="marked" Type="Int">0</Property>
+			</Item>
 		</Item>
 		<Item Name="slscsl.lvclass" Type="LVClass" URL="../Classes/slscsl/slscsl.lvclass"/>
 		<Item Name="SLSC Switch.lvclass" Type="LVClass" URL="../Classes/SLSC Switch/SLSC Switch.lvclass"/>
-		<Item Name="Scratch.vi" Type="VI" URL="../Scratch.vi"/>
+		<Item Name="Scratch.vi" Type="VI" URL="../Scratch.vi">
+			<Property Name="marked" Type="Int">0</Property>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="SLSC.lvlib" Type="Library" URL="/&lt;vilib&gt;/SLSC/SLSC.lvlib"/>

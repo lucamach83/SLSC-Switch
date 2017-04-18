@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-04-05 09:22:59" Modified_Date="2017-04-16 19:29:30" Creator="Tanner Blair" Comments="" ID="56e93d56cfb8da76d92971fe8b03ac10">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-04-05 09:22:59" Modified_Date="2017-04-18 15:48:54" Creator="Tanner Blair" Comments="" ID="7546148cb2e9a7f579b0412ea79b4313">
   <Library_General_Settings>
     <Package_File_Name>NI_SLSC_Switch</Package_File_Name>
-    <Library_Version>1.0.0.12</Library_Version>
+    <Library_Version>1.0.0.14</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -323,7 +323,7 @@
         <Path>Source\Blacklist</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2C0291CB91E51FBA1F4E07871EF2D75F</GUID>
+      <GUID>4BBC1191AF2938F478746648EB81A6A0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -372,7 +372,7 @@
         <Path>Source\Classes\SLSC Switch\Get Relay Position.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>969B4A618E1A5D7D51CA7061BF4210D4</GUID>
+      <GUID>3C17DADECA5D7375855941DFF297268A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -435,7 +435,7 @@
         <Path>Source\Classes\SLSC Switch\Get Available Channels.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CB1D508C5BA8880015A164CE669DCB7A</GUID>
+      <GUID>C45F110251D8EBB29367D9E96C589CE3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -459,7 +459,7 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Blacklist Connection.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Add to Application MUXList.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -467,13 +467,13 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\Classes\SLSC Switch\Blacklist Connection.vi</Path>
+        <Path>Source\Classes\SLSC Switch\Add to Application MUXList.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Unblacklist Connection.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Remove from Application MUXList.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -481,13 +481,13 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\Classes\SLSC Switch\Unblacklist Connection.vi</Path>
+        <Path>Source\Classes\SLSC Switch\Remove from Application MUXList.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Check Blacklist.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Check Application MUXList.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -495,10 +495,10 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\Classes\SLSC Switch\Check Blacklist.vi</Path>
+        <Path>Source\Classes\SLSC Switch\Check Application MUXList.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>91002A4F007812F469B90780142DA083</GUID>
+      <GUID>13B2102E8E9261BDF658AFD0C454E6B6</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
