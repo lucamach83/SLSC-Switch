@@ -15,6 +15,8 @@
 		<Item Name="PhysicalChannelRelay.lvclass" Type="LVClass" URL="../Classes/Physical Channel Relay/PhysicalChannelRelay.lvclass"/>
 		<Item Name="RelayInterface.lvclass" Type="LVClass" URL="../Classes/Relay Interface/RelayInterface.lvclass"/>
 	</Item>
+	<Item Name="SLSC Session.lvclass" Type="LVClass" URL="../Classes/SLSC Session/SLSC Session.lvclass"/>
 	<Item Name="SLSC Switch.lvclass" Type="LVClass" URL="../Classes/SLSC Switch/SLSC Switch.lvclass"/>
 	<Item Name="slscsl.lvclass" Type="LVClass" URL="../Classes/slscsl/slscsl.lvclass"/>
+	<Item Name="slscsl32.dll" Type="Document" URL="../slscsl32.dll"/>
 </Library>

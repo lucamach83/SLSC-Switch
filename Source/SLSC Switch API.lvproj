@@ -12,7 +12,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="slscsl32.dll" Type="Document" URL="../slscsl32.dll"/>
 		<Item Name="SLSC Switch.lvlib" Type="Library" URL="../SLSC Switch.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -130,6 +129,9 @@
 				</Item>
 				<Item Name="i3-json.lvlib" Type="Library" URL="/&lt;vilib&gt;/LVH/i3 JSON/i3-json.lvlib"/>
 			</Item>
+			<Item Name="user.lib" Type="Folder">
+				<Item Name="Session - Root.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/_Session Fwk/Session - Root.lvclass"/>
+			</Item>
 			<Item Name="nislsclvapi.dll" Type="Document" URL="nislsclvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -146,7 +148,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B639399D-FC12-4634-903D-EAD255F33ED9}</Property>
-				<Property Name="Bld_version.build" Type="Int">10</Property>
+				<Property Name="Bld_version.build" Type="Int">15</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SLSC Switch.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/SLSC Switch (PPL)/SLSC Switch.lvlibp</Property>
@@ -156,7 +158,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/SLSC Switch (PPL)</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{73EF2C81-9BB3-4C98-85BC-1CE3B3C2FE84}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{61A73294-4E23-40A2-A1F1-0A1FF9F476AD}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/SLSC Switch.lvlib</Property>
