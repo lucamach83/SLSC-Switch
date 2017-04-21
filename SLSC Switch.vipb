@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-04-05 09:22:59" Modified_Date="2017-04-18 15:48:54" Creator="Tanner Blair" Comments="" ID="7546148cb2e9a7f579b0412ea79b4313">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-04-05 09:22:59" Modified_Date="2017-04-20 19:26:21" Creator="Tanner Blair" Comments="" ID="efc3aeb56acd4c693ca653a0f7aa1a97">
   <Library_General_Settings>
     <Package_File_Name>NI_SLSC_Switch</Package_File_Name>
-    <Library_Version>1.0.0.14</Library_Version>
+    <Library_Version>1.0.0.15</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -98,6 +98,12 @@
       </Destination_Overrides>
       <Destination_Overrides>
         <Path>Example.vi</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Initialize Listboxes.vi</Path>
         <Destination>1</Destination>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
@@ -323,7 +329,7 @@
         <Path>Source\Blacklist</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4BBC1191AF2938F478746648EB81A6A0</GUID>
+      <GUID>598F3FDFFA5CCD6289797A8CE310B2EB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -372,7 +378,7 @@
         <Path>Source\Classes\SLSC Switch\Get Relay Position.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3C17DADECA5D7375855941DFF297268A</GUID>
+      <GUID>D49F883A8C19655556A807A495BC8478</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -435,7 +441,7 @@
         <Path>Source\Classes\SLSC Switch\Get Available Channels.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C45F110251D8EBB29367D9E96C589CE3</GUID>
+      <GUID>F062E3215501C2240C028515A357E681</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -498,7 +504,7 @@
         <Path>Source\Classes\SLSC Switch\Check Application MUXList.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>13B2102E8E9261BDF658AFD0C454E6B6</GUID>
+      <GUID>200458E7B93075E1DA1CA4C5B90D90B3</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
