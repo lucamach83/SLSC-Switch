@@ -134,6 +134,9 @@
 			<Item Name="nislsclvapi.dll" Type="Document" URL="nislsclvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Stop SLSC Session Daemon.vi" Type="VI" URL="../Classes/SLSC Switch/Stop SLSC Session Daemon.vi">
+				<Property Name="marked" Type="Int">0</Property>
+			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="SLSC Switch (PPL)" Type="Packed Library">
