@@ -127,15 +127,18 @@
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi">
 					<Property Name="marked" Type="Int">0</Property>
 				</Item>
-			</Item>
-			<Item Name="user.lib" Type="Folder">
-				<Item Name="Session - Root.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/_Session Fwk/Session - Root.lvclass"/>
+				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl">
+					<Property Name="marked" Type="Int">0</Property>
+				</Item>
+				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi">
+					<Property Name="marked" Type="Int">0</Property>
+				</Item>
 			</Item>
 			<Item Name="nislsclvapi.dll" Type="Document" URL="nislsclvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Stop SLSC Session Daemon.vi" Type="VI" URL="../Classes/SLSC Switch/Stop SLSC Session Daemon.vi">
-				<Property Name="marked" Type="Int">0</Property>
+			<Item Name="slscsl32.dll" Type="Document" URL="slscsl32.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
