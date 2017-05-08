@@ -149,15 +149,6 @@
 			<Item Name="slscsl32.dll" Type="Document" URL="slscsl32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Read command.vi" Type="VI" URL="../Classes/Relay/Read command.vi">
-				<Property Name="marked" Type="Int">0</Property>
-			</Item>
-			<Item Name="Read resource name.vi" Type="VI" URL="../Classes/Relay/Read resource name.vi">
-				<Property Name="marked" Type="Int">0</Property>
-			</Item>
-			<Item Name="Read property.vi" Type="VI" URL="../Classes/Relay/Read property.vi">
-				<Property Name="marked" Type="Int">0</Property>
-			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="SLSC Switch (PPL)" Type="Packed Library">
