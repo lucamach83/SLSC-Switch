@@ -10,6 +10,10 @@
 		</Item>
 		<Item Name="Example.vi" Type="VI" URL="../Example.vi"/>
 	</Item>
+	<Item Name="Relay Control" Type="Folder">
+		<Item Name="Relay.lvclass" Type="LVClass" URL="../Classes/Relay/Relay.lvclass"/>
+		<Item Name="Switch Action Processor.lvclass" Type="LVClass" URL="../Classes/Switch Action Processor/Switch Action Processor.lvclass"/>
+	</Item>
 	<Item Name="Relay Interfaces" Type="Folder">
 		<Item Name="DevicePropertyRelay.lvclass" Type="LVClass" URL="../Classes/Device Property Relay/DevicePropertyRelay.lvclass"/>
 		<Item Name="PhysicalChannelRelay.lvclass" Type="LVClass" URL="../Classes/Physical Channel Relay/PhysicalChannelRelay.lvclass"/>
@@ -19,4 +23,5 @@
 	<Item Name="SLSC Switch.lvclass" Type="LVClass" URL="../Classes/SLSC Switch/SLSC Switch.lvclass"/>
 	<Item Name="slscsl.lvclass" Type="LVClass" URL="../Classes/slscsl/slscsl.lvclass"/>
 	<Item Name="slscsl32.dll" Type="Document" URL="../slscsl32.dll"/>
+	<Item Name="Unique String Buffer.lvclass" Type="LVClass" URL="../Classes/Unique String Buffer/Unique String Buffer.lvclass"/>
 </Library>

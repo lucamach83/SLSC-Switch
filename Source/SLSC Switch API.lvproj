@@ -13,6 +13,15 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="SLSC Switch.lvlib" Type="Library" URL="../SLSC Switch.lvlib"/>
+		<Item Name="Generate Relays.vi" Type="VI" URL="../Generate Relays.vi">
+			<Property Name="marked" Type="Int">0</Property>
+		</Item>
+		<Item Name="JSON.RelaySLSCAction.ctl" Type="VI" URL="../Classes/SLSC Switch/Controls/JSON.RelaySLSCAction.ctl">
+			<Property Name="marked" Type="Int">0</Property>
+		</Item>
+		<Item Name="JSON.Relay.ctl" Type="VI" URL="../Classes/SLSC Switch/Controls/JSON.Relay.ctl">
+			<Property Name="marked" Type="Int">0</Property>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="SLSC.lvlib" Type="Library" URL="/&lt;vilib&gt;/SLSC/SLSC.lvlib"/>
@@ -139,6 +148,15 @@
 			</Item>
 			<Item Name="slscsl32.dll" Type="Document" URL="slscsl32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="Read command.vi" Type="VI" URL="../Classes/Relay/Read command.vi">
+				<Property Name="marked" Type="Int">0</Property>
+			</Item>
+			<Item Name="Read resource name.vi" Type="VI" URL="../Classes/Relay/Read resource name.vi">
+				<Property Name="marked" Type="Int">0</Property>
+			</Item>
+			<Item Name="Read property.vi" Type="VI" URL="../Classes/Relay/Read property.vi">
+				<Property Name="marked" Type="Int">0</Property>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
