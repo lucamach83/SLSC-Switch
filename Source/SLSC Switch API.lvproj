@@ -16,12 +16,6 @@
 		<Item Name="Generate Relays.vi" Type="VI" URL="../Generate Relays.vi">
 			<Property Name="marked" Type="Int">0</Property>
 		</Item>
-		<Item Name="JSON.RelaySLSCAction.ctl" Type="VI" URL="../Classes/SLSC Switch/Controls/JSON.RelaySLSCAction.ctl">
-			<Property Name="marked" Type="Int">0</Property>
-		</Item>
-		<Item Name="JSON.Relay.ctl" Type="VI" URL="../Classes/SLSC Switch/Controls/JSON.Relay.ctl">
-			<Property Name="marked" Type="Int">0</Property>
-		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="SLSC.lvlib" Type="Library" URL="/&lt;vilib&gt;/SLSC/SLSC.lvlib"/>
