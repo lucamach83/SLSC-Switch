@@ -350,24 +350,6 @@
 			</Item>
 		</Item>
 		<Item Name="Relays" Type="Folder">
-			<Item Name="Make Connections (Serial).vi" Type="VI" URL="../SubVIs/Make Connections (Serial).vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*1!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%"!=!!?!!!H%6.-5U-A5X&gt;J&gt;'.I,GRW&lt;'FC%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X-!$V.-5U-A5X&gt;J&gt;'.I)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!N!!Q!&amp;;7ZE:8A!4A$R!!!!!!!!!!-25UR41S"4&gt;WFU9WAO&lt;(:M;7)/=WRT9X.M,GRW9WRB=X-05G6M98F"9X2J&lt;WYO9X2M!"6!"Q!,5G6M98F"9X2J&lt;WY!6A$R!!!!!!!!!!-25UR41S"4&gt;WFU9WAO&lt;(:M;7)/=WRT9X.M,GRW9WRB=X-15X&gt;J&gt;'.I17.U;7^O,G.U&lt;!!=1&amp;!!!A!(!!A-5X&gt;J&gt;'.I17.U;7^O!!"E!0%!!!!!!!!!!R&amp;44&amp;.$)&amp;.X;82D;#ZM&gt;GRJ9AZT&lt;(.D=WQO&lt;(:D&lt;'&amp;T=R:4&gt;WFU9WB"9X2J&lt;WZT18*S98EO9X2M!#2!1!!"`````Q!*%H.X;82D;%&amp;D&gt;'FP&lt;H."=H*B?1!!1%"Q!"Y!!#=25UR41S"4&gt;WFU9WAO&lt;(:M;7)45UR41S"4&gt;WFU9WAO&lt;(:D&lt;'&amp;T=Q!/5UR41S"4&gt;WFU9WAA;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!#A!,!A!!?!!!#1!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!AA!!!!1!!!!!!%!$!!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
-			</Item>
-			<Item Name="Get Physcial Relay State.vi" Type="VI" URL="../SubVIs/Get Physcial Relay State.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!';!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%Y!]1!!!!!!!!!$%6.-5U-A5X&gt;J&gt;'.I,GRW&lt;'FC$H.M=W.T&lt;#ZM&gt;G.M98.T%6*F&lt;'&amp;Z5'^T;82J&lt;WYO9X2M!".!!Q!)='^T;82J&lt;WY!!%"!=!!?!!!H%6.-5U-A5X&gt;J&gt;'.I,GRW&lt;'FC%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X-!$V.-5U-A5X&gt;J&gt;'.I)'^V&gt;!!@1(!!)!!"!!9!%V.-5U-N5V&gt;*6%.))&amp;*F:C"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!21!-!#X*F&lt;'&amp;Z)'FO:'6Y!"^!=!!A!!%!"A!35UR41SV46UF51UAA5G6G)'FO!!"5!0!!$!!$!!1!"1!(!!1!"!!%!!1!#!!%!!E!#A)!!(A!!!E!!!!!!!!!#1!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!1!!!!%!!!!!!"!!M!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
-			</Item>
 			<Item Name="Synchonize Relay States.vi" Type="VI" URL="../SubVIs/Synchonize Relay States.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;+!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%"!=!!?!!!H%6.-5U-A5X&gt;J&gt;'.I,GRW&lt;'FC%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X-!$V.-5U-A5X&gt;J&gt;'.I)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%"!=!!?!!!H%6.-5U-A5X&gt;J&gt;'.I,GRW&lt;'FC%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X-!$F.-5U-A5X&gt;J&gt;'.I)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!)!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -550,6 +532,15 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 			</Item>
+			<Item Name="JSON Topology to Switch Driver Topology.vi" Type="VI" URL="../SubVIs/JSON Topology to Switch Driver Topology.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!2Z!!!!)A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!":!-0````].6'^Q&lt;WRP:XEA4G&amp;N:1!=1$,`````%F2P='^M&lt;W&gt;Z)%:J&lt;'5A5'&amp;U;!!!%E!Q`````QB$;'&amp;O&lt;G6M=Q!!&amp;E"!!!(`````!!=)1WBB&lt;GZF&lt;(-!!!Z!-0````]%4X"F&lt;A!!%E"!!!(`````!!E%4X"F&lt;A!!%E"!!!(`````!!E&amp;1WRP=W5!9!$R!!!!!!!!!!-25UR41S"4&gt;WFU9WAO&lt;(:M;7)45UR41S"4&gt;WFU9WAO&lt;(:D&lt;'&amp;T=R6+5U^/,EFO;82J97R4&gt;'&amp;U:3ZD&gt;'Q!(%"1!!)!#A!,$%FO;82J97R4&gt;'&amp;U:1!!%%!Q`````Q:4&lt;X6S9W5!!":!-0````]-2'6T&gt;'FO982J&lt;WZT!!!;1%!!!@````]!$AR%:8.U;7ZB&gt;'FP&lt;H-!!&amp;)!]1!!!!!!!!!$%6.-5U-A5X&gt;J&gt;'.I,GRW&lt;'FC%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X-2486Y4'FT&gt;#"&amp;&lt;H2S?3ZD&gt;'Q!%E"1!!)!$1!0!UVV?!!51%!!!@````]!%!&gt;.&gt;8B-;8.U!&amp;M!]1!!!!!!!!!$%6.-5U-A5X&gt;J&gt;'.I,GRW&lt;'FC%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X--6'^Q&lt;WRP:XEO9X2M!#"!5!!&amp;!!5!"A!)!!Q!%1J5&lt;X"P&lt;'^H;76T!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!-0````]%&lt;G&amp;N:1!!%E"!!!(`````!!E&amp;4G&amp;N:8-!7Q$R!!!!!!!!!!-25UR41S"4&gt;WFU9WAO&lt;(:M;7)45UR41S"4&gt;WFU9WAO&lt;(:D&lt;'&amp;T=R2+5U^/,E.I97ZO:7R-;8.U,G.U&lt;!!91&amp;!!!1!6#U.I97ZO:7R-;8.U!!R!-0````]$5X*D!!Z!-0````]%2'6T&gt;!!!&amp;%"!!!(`````!!E'5G6M98FT!!"G!0%!!!!!!!!!!R&amp;44&amp;.$)&amp;.X;82D;#ZM&gt;GRJ9B.44&amp;.$)&amp;.X;82D;#ZM&gt;G.M98.T&amp;UJ44UYO1W^O&lt;G6D&gt;'FP&lt;ERJ=X1O9X2M!#"!5!!$!"=!'!!:$E.P&lt;GZF9X2J&lt;WZ-;8.U!!!=1%!!!@````]!'AZ$&lt;WZO:7.U;7^O4'FT&gt;!!!$E!Q`````Q6%:8.U=Q!31%!!!@````]!(!6%:8.U=Q!31&amp;!!!A!8!"U(486Y4'FT&gt;!!51%!!!@````]!(A&gt;.&gt;8B-;8.U!&amp;Y!]1!!!!!!!!!$%6.-5U-A5X&gt;J&gt;'.I,GRW&lt;'FC%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X-23F.04CZ5&lt;X"P&lt;'^H?3ZD&gt;'Q!(E"1!!5!&amp;!!-!"9!'Q!@#&amp;2P='^M&lt;W&gt;Z!!"5!0!!$!!$!!1!"!!3!!1!"!!%!!1!%Q!%!!1!)!-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%!!!!!!"!#%!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			</Item>
 		</Item>
 		<Item Name="SLSC" Type="Folder">
 			<Item Name="Write session.vi" Type="VI" URL="../Write session.vi">
@@ -663,14 +654,5 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1082139154</Property>
 			</Item>
 		</Item>
-	</Item>
-	<Item Name="JSON Topology to Switch Driver Topology.vi" Type="VI" URL="../SubVIs/JSON Topology to Switch Driver Topology.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!2Z!!!!)A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!":!-0````].6'^Q&lt;WRP:XEA4G&amp;N:1!=1$,`````%F2P='^M&lt;W&gt;Z)%:J&lt;'5A5'&amp;U;!!!%E!Q`````QB$;'&amp;O&lt;G6M=Q!!&amp;E"!!!(`````!!=)1WBB&lt;GZF&lt;(-!!!Z!-0````]%4X"F&lt;A!!%E"!!!(`````!!E%4X"F&lt;A!!%E"!!!(`````!!E&amp;1WRP=W5!9!$R!!!!!!!!!!-25UR41S"4&gt;WFU9WAO&lt;(:M;7)45UR41S"4&gt;WFU9WAO&lt;(:D&lt;'&amp;T=R6+5U^/,EFO;82J97R4&gt;'&amp;U:3ZD&gt;'Q!(%"1!!)!#A!,$%FO;82J97R4&gt;'&amp;U:1!!%%!Q`````Q:4&lt;X6S9W5!!":!-0````]-2'6T&gt;'FO982J&lt;WZT!!!;1%!!!@````]!$AR%:8.U;7ZB&gt;'FP&lt;H-!!&amp;)!]1!!!!!!!!!$%6.-5U-A5X&gt;J&gt;'.I,GRW&lt;'FC%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X-2486Y4'FT&gt;#"&amp;&lt;H2S?3ZD&gt;'Q!%E"1!!)!$1!0!UVV?!!51%!!!@````]!%!&gt;.&gt;8B-;8.U!&amp;M!]1!!!!!!!!!$%6.-5U-A5X&gt;J&gt;'.I,GRW&lt;'FC%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X--6'^Q&lt;WRP:XEO9X2M!#"!5!!&amp;!!5!"A!)!!Q!%1J5&lt;X"P&lt;'^H;76T!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!-0````]%&lt;G&amp;N:1!!%E"!!!(`````!!E&amp;4G&amp;N:8-!7Q$R!!!!!!!!!!-25UR41S"4&gt;WFU9WAO&lt;(:M;7)45UR41S"4&gt;WFU9WAO&lt;(:D&lt;'&amp;T=R2+5U^/,E.I97ZO:7R-;8.U,G.U&lt;!!91&amp;!!!1!6#U.I97ZO:7R-;8.U!!R!-0````]$5X*D!!Z!-0````]%2'6T&gt;!!!&amp;%"!!!(`````!!E'5G6M98FT!!"G!0%!!!!!!!!!!R&amp;44&amp;.$)&amp;.X;82D;#ZM&gt;GRJ9B.44&amp;.$)&amp;.X;82D;#ZM&gt;G.M98.T&amp;UJ44UYO1W^O&lt;G6D&gt;'FP&lt;ERJ=X1O9X2M!#"!5!!$!"=!'!!:$E.P&lt;GZF9X2J&lt;WZ-;8.U!!!=1%!!!@````]!'AZ$&lt;WZO:7.U;7^O4'FT&gt;!!!$E!Q`````Q6%:8.U=Q!31%!!!@````]!(!6%:8.U=Q!31&amp;!!!A!8!"U(486Y4'FT&gt;!!51%!!!@````]!(A&gt;.&gt;8B-;8.U!&amp;Y!]1!!!!!!!!!$%6.-5U-A5X&gt;J&gt;'.I,GRW&lt;'FC%V.-5U-A5X&gt;J&gt;'.I,GRW9WRB=X-23F.04CZ5&lt;X"P&lt;'^H?3ZD&gt;'Q!(E"1!!5!&amp;!!-!"9!'Q!@#&amp;2P='^M&lt;W&gt;Z!!"5!0!!$!!$!!1!"!!3!!1!"!!%!!1!%Q!%!!1!)!-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%!!!!!!"!#%!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 </LVClass>

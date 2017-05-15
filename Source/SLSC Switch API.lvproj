@@ -13,9 +13,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="SLSC Switch.lvlib" Type="Library" URL="../SLSC Switch.lvlib"/>
-		<Item Name="Generate Relays.vi" Type="VI" URL="../Generate Relays.vi">
-			<Property Name="marked" Type="Int">0</Property>
-		</Item>
+		<Item Name="slscsl32.dll" Type="Document" URL="../slscsl32.dll"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="SLSC.lvlib" Type="Library" URL="/&lt;vilib&gt;/SLSC/SLSC.lvlib"/>
