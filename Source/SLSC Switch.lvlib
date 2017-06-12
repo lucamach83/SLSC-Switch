@@ -17,7 +17,6 @@
 		<Item Name="Relay.lvclass" Type="LVClass" URL="../Classes/Relay/Relay.lvclass"/>
 		<Item Name="Switch Action Processor.lvclass" Type="LVClass" URL="../Classes/Switch Action Processor/Switch Action Processor.lvclass"/>
 	</Item>
-	<Item Name="SLSC Session.lvclass" Type="LVClass" URL="../Classes/SLSC Session/SLSC Session.lvclass"/>
 	<Item Name="SLSC Switch.lvclass" Type="LVClass" URL="../Classes/SLSC Switch/SLSC Switch.lvclass"/>
 	<Item Name="slscsl.lvclass" Type="LVClass" URL="../Classes/slscsl/slscsl.lvclass"/>
 </Library>
