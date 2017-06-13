@@ -121,7 +121,7 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		</Item>
 	</Item>
-	<Item Name="initialize.vi" Type="VI" URL="../initialize.vi">
+	<Item Name="Initialize Relay.vi" Type="VI" URL="../Initialize Relay.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+E!!!!%A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!B%6.-5U-A5X&gt;J&gt;'.I,GRW&lt;'FC$6*F&lt;'&amp;Z,GRW9WRB=X-!#6*F&lt;'&amp;Z)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!":!-0````].=G6T&lt;X6S9W5A&lt;G&amp;N:1!K!$@`````!!56!)!!!!!!!1!%!!!!!1!!!!!!!!NT&lt;(.D1W^N&lt;7&amp;O:!!Y1(!!&amp;1NT&lt;(.D1W^N&lt;7&amp;O:!!"!!A%=WRT9Q!6!)!!!!!!!1!%!!!!!1!!!!!!!!&gt;D&lt;WVN97ZE!%I!]1!!!!!!!!!$%6.-5U-A5X&gt;J&gt;'.I,GRW&lt;'FC$6*F&lt;'&amp;Z,GRW9WRB=X-,1W^N&lt;7&amp;O:#ZD&gt;'Q!&amp;E"1!!)!"Q!*"U.P&lt;7VB&lt;G1!&amp;E"!!!(`````!!I)1W^N&lt;7&amp;O:(-!!#Q!.`````]!"25!A!!!!!!"!!1!!!!"!!!!!!!!$(.M=W.1=G^Q:8*U?1!!0%"Q!"5-=WRT9V"S&lt;X"F=H2Z!!!"!!Q%=WRT9Q!6!)!!!!!!!1!%!!!!!1!!!!!!!!BQ=G^Q:8*U?1!!41$R!!!!!!!!!!-25UR41S"4&gt;WFU9WAO&lt;(:M;7).5G6M98EO&lt;(:D&lt;'&amp;T=QR1=G^Q:8*U?3ZD&gt;'Q!'%"1!!)!"Q!.#&amp;"S&lt;X"F=H2Z!!!91%!!!@````]!$AJ1=G^Q:8*U;76T!!!/1$$`````"'ZB&lt;75!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!M!$Q!1!A!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!)!!!#%!!!!B!!!!)1!!!!!!%!%1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
