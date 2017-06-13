@@ -6,6 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="Example" Type="Folder">
 		<Item Name="SubVIs" Type="Folder">
+			<Item Name="Get Connection List from Indices.vi" Type="VI" URL="../Get Connection List from Indices.vi"/>
 			<Item Name="Initialize Listboxes.vi" Type="VI" URL="../Initialize Listboxes.vi"/>
 		</Item>
 		<Item Name="Example.vi" Type="VI" URL="../Example.vi"/>
