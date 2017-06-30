@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-04-05 09:22:59" Modified_Date="2017-06-12 10:37:35" Creator="Tanner Blair" Comments="" ID="608308c85afa4e0bd9cc365469e0a8fe">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-04-05 09:22:59" Modified_Date="2017-06-27 15:33:07" Creator="Tanner Blair" Comments="" ID="2705fd5dc327409f3ba4316a4e0ff1e6">
   <Library_General_Settings>
     <Package_File_Name>NI_SLSC_Switch</Package_File_Name>
-    <Library_Version>1.0.0.29</Library_Version>
+    <Library_Version>1.0.0.30</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -341,7 +341,7 @@
         <Path>Source\Blacklist</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>883479AF203546641BC8FE2DAC5785CE</GUID>
+      <GUID>712F98BB2C59DCEA4B50811D7FE6668E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -390,7 +390,7 @@
         <Path>Source\Classes\SLSC Switch\Get Relay Position.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2DE69D056FEB9BA2A0264D59042770AF</GUID>
+      <GUID>CD3F0C0D851DEF1926DE4B320119FEAB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -453,7 +453,7 @@
         <Path>Source\Classes\SLSC Switch\Get Available Channels.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BCCD4D270D55F36EB80724BD439ABB8C</GUID>
+      <GUID>94620C1FAD2C57744ABC2BF9DFB2D6FE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -516,7 +516,7 @@
         <Path>Source\Classes\SLSC Switch\Check Application MUXList.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>003AB4E4C80C323BE8E011D0F701A41A</GUID>
+      <GUID>8512C080F67754186C29C99D032834DC</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
