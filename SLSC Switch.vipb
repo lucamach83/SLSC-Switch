@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-04-05 09:22:59" Modified_Date="2017-06-27 15:33:07" Creator="Tanner Blair" Comments="" ID="2705fd5dc327409f3ba4316a4e0ff1e6">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-04-05 09:22:59" Modified_Date="2017-07-10 12:41:59" Creator="Tanner Blair" Comments="" ID="b28fb2a196af7f2112e1ad5526d2389e">
   <Library_General_Settings>
     <Package_File_Name>NI_SLSC_Switch</Package_File_Name>
-    <Library_Version>1.0.0.30</Library_Version>
+    <Library_Version>1.0.0.37</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -16,7 +16,10 @@
     <Target>LabVIEW</Target>
   </Library_General_Settings>
   <Advanced_Settings>
-    <Package_Dependencies/>
+    <Package_Dependencies>
+      <Additional_External_Dependencies>i3_json &gt;=1.0.0.15</Additional_External_Dependencies>
+      <Additional_External_Dependencies>national_instruments_lib_slsc_local_or_remote_interface &gt;=1.0.0.3</Additional_External_Dependencies>
+    </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
       <Post-Build_VI/>
@@ -88,6 +91,11 @@
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
         <Path/>
       </Project_Provider>
+      <QuickDrop_Plugins>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path/>
+      </QuickDrop_Plugins>
       <Additional_Destination>
         <Name>Resources</Name>
         <LLB>false</LLB>
@@ -244,20 +252,6 @@
         <VI_Title/>
       </Items_Data>
       <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Initialize.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Source\Classes\SLSC Switch\Initialize.vi</Path>
-        <VI_Title>Initialize</VI_Title>
-      </Items_Data>
-      <Items_Data>
         <Type>Sub Palette</Type>
         <Sub_Palette_Index>2</Sub_Palette_Index>
         <NameSub_Menu_Name>Utility</NameSub_Menu_Name>
@@ -341,7 +335,21 @@
         <Path>Source\Blacklist</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>712F98BB2C59DCEA4B50811D7FE6668E</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Initialize.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Source\Classes\SLSC Switch\Initialize.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>7C3BF9D0259E21D6196DE5014F59273F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -390,7 +398,7 @@
         <Path>Source\Classes\SLSC Switch\Get Relay Position.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CD3F0C0D851DEF1926DE4B320119FEAB</GUID>
+      <GUID>18642D0933413A5D6FBF0A7750530742</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -453,7 +461,7 @@
         <Path>Source\Classes\SLSC Switch\Get Available Channels.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>94620C1FAD2C57744ABC2BF9DFB2D6FE</GUID>
+      <GUID>A9ADDC73550A26164641A50148DDDD94</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -485,7 +493,7 @@
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\Classes\SLSC Switch\Add to Application MUXList.vi</Path>
+        <Path>Source\Classes\SLSC Switch\SubVIs\MuxList\Add to Application MUXList.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -499,7 +507,7 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\Classes\SLSC Switch\Remove from Application MUXList.vi</Path>
+        <Path>Source\Classes\SLSC Switch\SubVIs\MuxList\Remove from Application MUXList.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -513,10 +521,10 @@
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Source\Classes\SLSC Switch\Check Application MUXList.vi</Path>
+        <Path>Source\Classes\SLSC Switch\SubVIs\MuxList\Check Application MUXList.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8512C080F67754186C29C99D032834DC</GUID>
+      <GUID>657959BB4B3F7661908AAD5BADC81566</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
