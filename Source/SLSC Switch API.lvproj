@@ -16,12 +16,9 @@
 		<Item Name="SLSC Switch.lvlib" Type="Library" URL="../SLSC Switch.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
-				<Item Name="SLSC Interface.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/National Instruments/SLSC Local or Remote Interface/SLSC Interface Class/SLSC Interface.lvclass"/>
-				<Item Name="SLSC Local.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/National Instruments/SLSC Local or Remote Interface/SLSC Local Interface Class/SLSC Local.lvclass"/>
 				<Item Name="SLSC.lvlib" Type="Library" URL="/&lt;vilib&gt;/SLSC/SLSC.lvlib"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="LabVIEWHTTPClient.lvlib" Type="Library" URL="/&lt;vilib&gt;/httpClient/LabVIEWHTTPClient.lvlib"/>
-				<Item Name="SLSC Remote.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/National Instruments/SLSC Local or Remote Interface/SLSC Remote Interface Class/SLSC Remote.lvclass"/>
 				<Item Name="i3-json.lvlib" Type="Library" URL="/&lt;vilib&gt;/rajsite/i3-json/i3-json.lvlib"/>
 				<Item Name="id.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NI JSONRPC Server Framework/Classes/id/id.lvclass"/>
 				<Item Name="JSONable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/NI JSONRPC Server Framework/Classes/JSONable/JSONable.lvclass"/>
@@ -71,6 +68,7 @@
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
+				<Item Name="SLSC Interfaces.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/SLSC Local or Remote Interface/SLSC Interfaces.lvlib"/>
 			</Item>
 			<Item Name="nislsclvapi.dll" Type="Document" URL="nislsclvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -88,7 +86,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B639399D-FC12-4634-903D-EAD255F33ED9}</Property>
-				<Property Name="Bld_version.build" Type="Int">25</Property>
+				<Property Name="Bld_version.build" Type="Int">26</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SLSC Switch.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/SLSC Switch (PPL)/SLSC Switch.lvlibp</Property>
@@ -98,7 +96,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/SLSC Switch (PPL)</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{FA118DA8-F521-43BC-AAE3-8FF0A4BE6090}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{1DCD504A-32C5-4994-BB56-6A2A46DCD454}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/slscsl32.dll</Property>
