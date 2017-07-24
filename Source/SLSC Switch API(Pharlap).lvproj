@@ -111,9 +111,7 @@
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
-				<Item Name="SLSC Interface.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/National Instruments/SLSC Local or Remote Interface/SLSC Interface Class/SLSC Interface.lvclass"/>
-				<Item Name="SLSC Local.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/National Instruments/SLSC Local or Remote Interface/SLSC Local Interface Class/SLSC Local.lvclass"/>
-				<Item Name="SLSC Remote.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/National Instruments/SLSC Local or Remote Interface/SLSC Remote Interface Class/SLSC Remote.lvclass"/>
+				<Item Name="SLSC Interfaces.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/SLSC Local or Remote Interface/SLSC Interfaces.lvlib"/>
 				<Item Name="SLSC.lvlib" Type="Library" URL="/&lt;vilib&gt;/SLSC/SLSC.lvlib"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
@@ -139,7 +137,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{7E3C0474-E2D6-417D-B222-B919D357DF34}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/Pharlap</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SLSC Switch.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/Pharlap/SLSC Switch.lvlibp</Property>
@@ -150,7 +148,7 @@
 				<Property Name="Destination[1].path" Type="Path">/Pharlap</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{6FD680F0-678F-4B8F-B8DE-AD4F5F1D813E}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{1C28635C-8B61-46E3-B466-F846F8B4E2ED}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/RT PXI Target/SLSC Switch.lvlib</Property>
@@ -162,7 +160,6 @@
 				<Property Name="Source[1].type" Type="Str">Library</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[2].itemID" Type="Ref">/RT PXI Target/slscsl32.dll</Property>
-				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="SourceCount" Type="Int">3</Property>
 				<Property Name="TgtF_companyName" Type="Str">Microsoft</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">SLSC Switch</Property>
