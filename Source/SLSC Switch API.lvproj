@@ -68,10 +68,11 @@
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="SLSC Interfaces.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/SLSC Local or Remote Interface/SLSC Interfaces.lvlib"/>
-				<Item Name="LVJSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/JSON Support for LabVIEW/LVJSON.lvlib"/>
+				<Item Name="LVJSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/LVJSON.lvlib"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
-				<Item Name="Custom Device Utility Library.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI Veristand/Custom Device Tools/Custom Device Utility Library/Custom Device Utility Library.lvlib"/>
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
+				<Item Name="Dflt Data Dir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Dflt Data Dir.vi"/>
 			</Item>
 			<Item Name="nislsclvapi.dll" Type="Document" URL="nislsclvapi.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -89,7 +90,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B639399D-FC12-4634-903D-EAD255F33ED9}</Property>
-				<Property Name="Bld_version.build" Type="Int">29</Property>
+				<Property Name="Bld_version.build" Type="Int">31</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SLSC Switch.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Windows/SLSC Switch.lvlibp</Property>
