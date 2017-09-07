@@ -79,10 +79,10 @@
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="SLSC Switch (PPL)" Type="Packed Library">
+			<Item Name="SLSC Switch - Windows" Type="Packed Library">
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{EB924B8C-005D-47B4-A59B-05378BE6461C}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">SLSC Switch (PPL)</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">SLSC Switch - Windows</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
@@ -100,7 +100,51 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/Windows</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{E52D4C92-C8BC-42C9-97C2-838C799191E4}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2F53A18F-97B8-4F35-B40A-A27502B337F6}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/slscsl32.dll</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/SLSC Switch.lvlib</Property>
+				<Property Name="Source[2].Library.allowMissingMembers" Type="Bool">true</Property>
+				<Property Name="Source[2].Library.atomicCopy" Type="Bool">true</Property>
+				<Property Name="Source[2].Library.LVLIBPtopLevel" Type="Bool">true</Property>
+				<Property Name="Source[2].preventRename" Type="Bool">true</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[2].type" Type="Str">Library</Property>
+				<Property Name="SourceCount" Type="Int">3</Property>
+				<Property Name="TgtF_companyName" Type="Str">Microsoft</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">SLSC Switch - Windows</Property>
+				<Property Name="TgtF_internalName" Type="Str">SLSC Switch - Windows</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2017 Microsoft</Property>
+				<Property Name="TgtF_productName" Type="Str">SLSC Switch - Windows</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{09EFEF14-8523-4015-9461-48AD5A2886AE}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">SLSC Switch.lvlibp</Property>
+			</Item>
+			<Item Name="SLSC Switch - Windows - To CD Resources" Type="Packed Library">
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{DB76204B-A1E3-460D-A4F7-ACE720C947A7}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">SLSC Switch - Windows - To CD Resources</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Users/tblair/Documents/Git Projects/SLSC CD Resources/NI_AB_PROJECTNAME/2016/Windows</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{C696EEAC-6E92-4378-910F-CA2C7F98C45B}</Property>
+				<Property Name="Bld_version.build" Type="Int">32</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">SLSC Switch.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Users/tblair/Documents/Git Projects/SLSC CD Resources/NI_AB_PROJECTNAME/2016/Windows/SLSC Switch.lvlibp</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/Users/tblair/Documents/Git Projects/SLSC CD Resources/NI_AB_PROJECTNAME/2016/Windows</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2F53A18F-97B8-4F35-B40A-A27502B337F6}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/slscsl32.dll</Property>
@@ -119,7 +163,7 @@
 				<Property Name="TgtF_internalName" Type="Str">SLSC Switch (PPL)</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2017 Microsoft</Property>
 				<Property Name="TgtF_productName" Type="Str">SLSC Switch (PPL)</Property>
-				<Property Name="TgtF_targetfileGUID" Type="Str">{09EFEF14-8523-4015-9461-48AD5A2886AE}</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{719E0101-A77B-409F-9619-CAA19A5A5C32}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">SLSC Switch.lvlibp</Property>
 			</Item>
 		</Item>
