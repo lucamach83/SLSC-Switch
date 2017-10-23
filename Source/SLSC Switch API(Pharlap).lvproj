@@ -130,10 +130,10 @@
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Property Name="NI.SortType" Type="Int">3</Property>
-			<Item Name="SLSC Switch - Pharlap" Type="Packed Library">
+			<Item Name="SLSC Switch" Type="Packed Library">
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{E896E701-B9BC-44F3-8423-0CD836C1836C}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">SLSC Switch - Pharlap</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">SLSC Switch</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
@@ -142,10 +142,10 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{7E3C0474-E2D6-417D-B222-B919D357DF34}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/Pharlap</Property>
-				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.build" Type="Int">9</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SLSC Switch.lvlibp</Property>
-				<Property Name="Destination[0].path" Type="Path">/Pharlap/SLSC Switch - Pharlap.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">/Pharlap/SLSC Switch.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -153,7 +153,7 @@
 				<Property Name="Destination[1].path" Type="Path">/Pharlap</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{4EDBB698-0427-4441-982F-759A8DAF0071}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{215B4CD7-9828-40CF-8C09-C88FA8E483DD}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/RT PXI Target/SLSC Switch.lvlib</Property>
@@ -167,10 +167,10 @@
 				<Property Name="Source[2].itemID" Type="Ref">/RT PXI Target/slscsl32.dll</Property>
 				<Property Name="SourceCount" Type="Int">3</Property>
 				<Property Name="TgtF_companyName" Type="Str">Microsoft</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">SLSC Switch - Pharlap</Property>
-				<Property Name="TgtF_internalName" Type="Str">SLSC Switch - Pharlap</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">SLSC Switch</Property>
+				<Property Name="TgtF_internalName" Type="Str">SLSC Switch</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2017 Microsoft</Property>
-				<Property Name="TgtF_productName" Type="Str">SLSC Switch - Pharlap</Property>
+				<Property Name="TgtF_productName" Type="Str">SLSC Switch</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{D4D016AD-3E76-483B-BE0A-151C3A19D8EB}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">SLSC Switch.lvlibp</Property>
 			</Item>
