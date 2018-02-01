@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-04-05 09:22:59" Modified_Date="2018-02-01 12:50:54" Creator="Tanner Blair" Comments="" ID="45188a4ff750ac561addfd6d47940b14">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-04-05 09:22:59" Modified_Date="2018-02-01 13:50:36" Creator="Tanner Blair" Comments="" ID="c90431846c79fb33bc89fcce3acd989e">
   <Library_General_Settings>
     <Package_File_Name>NI_SLSC_Switch</Package_File_Name>
-    <Library_Version>1.0.0.48</Library_Version>
+    <Library_Version>2.1.0.50</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -36,7 +36,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes/>
+      <Release_Notes>Breaking release, uses 2.1 of all dependent sw.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -350,7 +350,7 @@
         <Path>Source\Classes\SLSC Switch\Add Topology.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>00E65BBB1CCE5C946D26748F7FA6C93E</GUID>
+      <GUID>4B0D78E6AE262983B7F0404572B7380C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -399,7 +399,7 @@
         <Path>Source\Classes\SLSC Switch\Get Relay Position.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D24BC408E596BC6951DBD9EA4D36B2D3</GUID>
+      <GUID>D06E257656EC92BF69416E84984F22BF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -462,7 +462,7 @@
         <Path>Source\Classes\SLSC Switch\Get Available Channels.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8C4B2BE5B56C56D8DA5C203F72D2AB55</GUID>
+      <GUID>17F9F6A9F84B61538E40E738AFA8ED96</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -525,7 +525,7 @@
         <Path>Source\Classes\SLSC Switch\SubVIs\MuxList\Check Application MUXList.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9710989DEC51A12BA9CA77E59B698FA6</GUID>
+      <GUID>90F09CCB6A33D54CE64C04ADB7C6F03B</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
