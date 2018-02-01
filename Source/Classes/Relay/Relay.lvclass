@@ -65,7 +65,7 @@
 			<Property Name="NI.ClassItem.Property.LongName" Type="Str">name</Property>
 			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">name</Property>
 			<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-			<Item Name="Read name.vi" Type="VI" URL="../Read name.vi">
+			<Item Name="Read relay name.vi" Type="VI" URL="../Read relay name.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;!!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!-0````]%&lt;G&amp;N:1!!.%"Q!"Y!!#%25UR41S"4&gt;WFU9WAO&lt;(:M;7).5G6M98EO&lt;(:D&lt;'&amp;T=Q!*5G6M98EA&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!.%"Q!"Y!!#%25UR41S"4&gt;WFU9WAO&lt;(:M;7).5G6M98EO&lt;(:D&lt;'&amp;T=Q!)5G6M98EA;7Y!!'%!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!A!!?!!!$1A!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!E!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
