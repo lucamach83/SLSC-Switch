@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-04-05 09:22:59" Modified_Date="2017-10-12 15:01:12" Creator="Tanner Blair" Comments="" ID="72933225fc65c13b327fbcd5be424bc7">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-04-05 09:22:59" Modified_Date="2018-02-01 13:50:36" Creator="Tanner Blair" Comments="" ID="c90431846c79fb33bc89fcce3acd989e">
   <Library_General_Settings>
     <Package_File_Name>NI_SLSC_Switch</Package_File_Name>
-    <Library_Version>1.0.0.48</Library_Version>
+    <Library_Version>2.1.0.50</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -17,7 +17,9 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>national_instruments_lib_slsc_local_or_remote_interface &gt;=1.0.0.3</Additional_External_Dependencies>
+      <Additional_External_Dependencies>national_instruments_lib_slsc_local_or_remote_interface &gt;=2.1.0.20</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_jsonrpc &gt;=2.1.0.38</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_lvjson &gt;=2.1.0.66</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -34,7 +36,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes/>
+      <Release_Notes>Breaking release, uses 2.1 of all dependent sw.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -348,7 +350,7 @@
         <Path>Source\Classes\SLSC Switch\Add Topology.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CA55EAA967B9DD2C91B990BB07E04494</GUID>
+      <GUID>4B0D78E6AE262983B7F0404572B7380C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -397,7 +399,7 @@
         <Path>Source\Classes\SLSC Switch\Get Relay Position.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>057ED6BD3E20DFBB1E315C78928B1A4B</GUID>
+      <GUID>D06E257656EC92BF69416E84984F22BF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -460,7 +462,7 @@
         <Path>Source\Classes\SLSC Switch\Get Available Channels.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>193B4C57C8BEA378487D7EBAEAB8D5F8</GUID>
+      <GUID>17F9F6A9F84B61538E40E738AFA8ED96</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -523,7 +525,7 @@
         <Path>Source\Classes\SLSC Switch\SubVIs\MuxList\Check Application MUXList.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7AD0738B5EF1CA9F8D9CDD172F652EEA</GUID>
+      <GUID>90F09CCB6A33D54CE64C04ADB7C6F03B</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
