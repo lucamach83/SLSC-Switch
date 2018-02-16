@@ -80,7 +80,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B639399D-FC12-4634-903D-EAD255F33ED9}</Property>
-				<Property Name="Bld_version.build" Type="Int">34</Property>
+				<Property Name="Bld_version.build" Type="Int">35</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SLSC Switch.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Windows/SLSC Switch.lvlibp</Property>

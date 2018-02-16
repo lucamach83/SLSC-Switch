@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-04-05 09:22:59" Modified_Date="2018-02-16 11:01:42" Creator="Tanner Blair" Comments="" ID="72c4ee5605ec5fc4f4ad4c4d22bda80a">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-04-05 09:22:59" Modified_Date="2018-02-16 14:30:04" Creator="Tanner Blair" Comments="" ID="305133e432df7a6f17c2d3bd139cd154">
   <Library_General_Settings>
     <Package_File_Name>NI_SLSC_Switch</Package_File_Name>
     <Library_Version>2.1.0.52</Library_Version>
@@ -350,7 +350,7 @@
         <Path>Source\Classes\SLSC Switch\Add Topology.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2C50350114AB7D5DA6295F03F2F170D1</GUID>
+      <GUID>268F86D6DF9C2E6AF294243A4D5EC630</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -399,7 +399,7 @@
         <Path>Source\Classes\SLSC Switch\Get Relay Position.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F3BD6541318E84EA29DCD289CD87CB9E</GUID>
+      <GUID>E6A0B80A1EE4132BEF892C1C70809B6C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -462,7 +462,7 @@
         <Path>Source\Classes\SLSC Switch\Get Available Channels.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>62EAB431D60398435B018E9A027DA086</GUID>
+      <GUID>A82ED27B6FE0DE72B01A9227E389C331</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -525,7 +525,7 @@
         <Path>Source\Classes\SLSC Switch\SubVIs\MuxList\Check Application MUXList.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3F8C63683297EE25548E24FD7B39A13E</GUID>
+      <GUID>87149FF2926F13C9E61AA3E09BE2BC52</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
