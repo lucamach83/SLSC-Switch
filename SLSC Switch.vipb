@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-04-05 09:22:59" Modified_Date="2018-02-16 14:30:04" Creator="Tanner Blair" Comments="" ID="305133e432df7a6f17c2d3bd139cd154">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-04-05 09:22:59" Modified_Date="2018-02-21 18:56:56" Creator="Tanner Blair" Comments="" ID="9526155149a67bfd6e8a60c797ce33da">
   <Library_General_Settings>
     <Package_File_Name>NI_SLSC_Switch</Package_File_Name>
-    <Library_Version>2.1.0.52</Library_Version>
+    <Library_Version>2.1.0.54</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -36,7 +36,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes>Bug Fixes: slscsl.dll RT Path, Error Codes in MuxList, Case Sensitive issue in MuxList</Release_Notes>
+      <Release_Notes>slscl DLL Removed</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -120,12 +120,6 @@
       <Destination_Overrides>
         <Path>Initialize Listboxes.vi</Path>
         <Destination>1</Destination>
-        <Additional_Destination>false</Additional_Destination>
-        <Additional_Destination_Index>0</Additional_Destination_Index>
-      </Destination_Overrides>
-      <Destination_Overrides>
-        <Path>slscsl32.dll</Path>
-        <Destination>0</Destination>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
@@ -350,7 +344,7 @@
         <Path>Source\Classes\SLSC Switch\Add Topology.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>268F86D6DF9C2E6AF294243A4D5EC630</GUID>
+      <GUID>E6987E4C069B09F587AAAA5FD382340F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -399,7 +393,7 @@
         <Path>Source\Classes\SLSC Switch\Get Relay Position.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E6A0B80A1EE4132BEF892C1C70809B6C</GUID>
+      <GUID>5E36AEA097028D259808F995C185AE32</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -462,7 +456,7 @@
         <Path>Source\Classes\SLSC Switch\Get Available Channels.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A82ED27B6FE0DE72B01A9227E389C331</GUID>
+      <GUID>81C96C0ABC37D0FCED2DB6CE33B44383</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -525,7 +519,7 @@
         <Path>Source\Classes\SLSC Switch\SubVIs\MuxList\Check Application MUXList.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>87149FF2926F13C9E61AA3E09BE2BC52</GUID>
+      <GUID>A823B94B67573C67640C482972A87542</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
