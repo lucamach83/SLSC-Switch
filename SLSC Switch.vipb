@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-04-05 09:22:59" Modified_Date="2018-02-21 18:56:56" Creator="Tanner Blair" Comments="" ID="9526155149a67bfd6e8a60c797ce33da">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-04-05 09:22:59" Modified_Date="2018-02-21 19:13:12" Creator="Tanner Blair" Comments="" ID="25fa4022365c55f0817765c68cb85391">
   <Library_General_Settings>
     <Package_File_Name>NI_SLSC_Switch</Package_File_Name>
-    <Library_Version>2.1.0.54</Library_Version>
+    <Library_Version>2.1.0.52</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -344,7 +344,7 @@
         <Path>Source\Classes\SLSC Switch\Add Topology.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E6987E4C069B09F587AAAA5FD382340F</GUID>
+      <GUID>96E9A3719B9D951CA7F28B2DAE2DCDB0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -393,7 +393,7 @@
         <Path>Source\Classes\SLSC Switch\Get Relay Position.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5E36AEA097028D259808F995C185AE32</GUID>
+      <GUID>AFD433EAA0C97A91E8E3A5A169FA7AB0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -456,7 +456,7 @@
         <Path>Source\Classes\SLSC Switch\Get Available Channels.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>81C96C0ABC37D0FCED2DB6CE33B44383</GUID>
+      <GUID>7F20CB1C6F88F111BCC23205CC904FBE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -519,7 +519,7 @@
         <Path>Source\Classes\SLSC Switch\SubVIs\MuxList\Check Application MUXList.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A823B94B67573C67640C482972A87542</GUID>
+      <GUID>40ECC21E8AFA490594CF48D3B2964574</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
